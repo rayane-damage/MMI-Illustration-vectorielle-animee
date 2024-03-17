@@ -1,0 +1,11 @@
+#birb-9{
+    transition: all 500ms ease-in-out;
+}
+#birb-9:hover{
+    .cls-24{
+        transform: translate(-2px);
+    }
+    .cls-161{
+        transform: translateX(-1px);
+    }
+}

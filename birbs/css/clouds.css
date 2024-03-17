@@ -1,0 +1,8 @@
+#clood{
+    animation: 60s linear reverse infinite cloudscroll;
+}
+
+@keyframes cloudscroll{
+    from {transform: translate(163.6%, -172.4%);}
+    to {transform: translate(-163.6%, 172.4%);}
+}

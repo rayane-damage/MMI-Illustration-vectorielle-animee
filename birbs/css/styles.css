@@ -1,0 +1,31 @@
+/*font*/
+@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
+
+/*general*/
+@import url(main.css);
+
+/*birbs*/
+@import url(duck.css);
+@import url(castlebirb.css);
+@import url(bookbirb.css);
+@import url(waintingbirb.css);
+@import url(windowbirb.css);
+
+/*treebirbs*/
+@import url(reversebirb.css);
+@import url(stationbirb.css);
+@import url(brownbrib.css);
+@import url(bluebirb.css);
+
+/*water*/
+@import url(waves.css);
+
+/*air*/
+@import url(clouds.css);
+
+/*vehicles*/
+@import url(cars.css);
+@import url(train.css);
+
+/*text*/
+@import url(text.css);

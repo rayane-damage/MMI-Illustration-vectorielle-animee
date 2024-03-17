@@ -1,0 +1,13 @@
+#birb-3{
+    circle, line{
+        transform: translate(-4px, 4px);
+        transition: all 500ms ease-in-out;
+    }
+
+}
+#birb-3:hover{
+    circle, line{
+        transform: translate(3px, -3px);
+    }
+
+}
