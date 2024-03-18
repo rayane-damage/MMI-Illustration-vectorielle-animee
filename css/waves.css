@@ -1,0 +1,17 @@
+#wave-1{
+    animation: 35s linear infinite wavy;
+}
+#wave-2{
+    animation: 32s linear infinite wavy;
+    animation-delay: -5s;
+    animation-direction: reverse;
+}
+#wave-3{
+    animation: 30s linear infinite wavy;
+    animation-delay: -2s;
+}
+
+@keyframes wavy{
+    from { stroke-dashoffset: 0;}
+    to { stroke-dashoffset: 1200px;}
+}

@@ -1,0 +1,7 @@
+#train{
+    animation: 20s linear infinite bandwagon;
+}
+@keyframes bandwagon{
+    from {transform: translate(81.6%, -86.2%);}
+    to {transform: translate(-163.6%, 172.4%);}
+}

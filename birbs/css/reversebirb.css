@@ -1,7 +1,0 @@
-#birb{
-    transform: translate(10px, -10px);
-    transition: all 500ms ease-in-out;
-}
-#birb:hover{
-    transform: translate(-5px, 5px);
-}
